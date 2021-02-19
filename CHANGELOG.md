@@ -1,10 +1,7 @@
 # Change Log
 
-## [1.0.1] 2020-05-31
-### Bug fixing, Improvements
-- Add CHANGELOG.md to track all changes
-- Patch - Error-404.html not used in all contexts
-- Update LICENSE file - added more information regarding the app usage
-
-## [1.0.0] 2020-01-10
+## [1.0.0] 2020-02-19
 ### Initial Release
+
+- UI: [Jinja Paper PRO](https://github.com/app-generator/jinja-paper-dashboard-pro) v1.0.0
+- Codebase: [Django Dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) v1.0.4

@@ -1,25 +1,25 @@
-# [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro)
+# [Django Dashboard](https://appseed.us/admin-dashboards/django) Paper PRO
 
-> Commercial product - **Django Dashboard** coded on top of **Paper Dashboard PRO** crafted by **Creative-Tim** - Features:
-
-- Sample UI Kit: **Paper Dashboard PRO** provided by **Creative-Tim**
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
-
-> Links
-
-- [Django Dashboard Paper PRO](https://django-dashboard-paper-pro.appseed.us/) - LIVE Demo
-- [Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - Official product page
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+> Admin Dashboard coded in [Flask Framework](https://palletsprojects.com/p/flask/) on top of **Paper Dashboard** design (PRO Version).
 
 <br />
 
-![Django Dashboard Paper PRO - Admin Dashboard coded in Django.](https://raw.githubusercontent.com/app-generator/django-dashboard-paper-pro/master/media/django-dashboard-paper-pro-screen.png)
+- SQLite Database, Django Native ORM
+- Modular design, clean codebase
+- Session-Based Authentication, Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+
+<br />
+
+> Links
+
+- [Django Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - product page
+- [Django Paper PRO - Demo](https://django-paper-dashboard-pro.appseed-srv1.com/) - LIVE demo
+
+<br />
+
+![Django Dashboard Paper PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-paper-pro/master/media/django-dashboard-paper-pro-screen.png)
 
 <br />
 
@@ -195,11 +195,11 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 ## Credits & Links
 
-- [Django](https://www.djangoproject.com/) - The offcial website
-- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Index provided by **AppSeed**
-- [Django Admin Dashboards](https://github.com/app-generator/django-admin-dashboards) - Index published on Github
+- [Django](https://www.djangoproject.com/) - The official website
+- [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
+- [Boilerplate Code](https://github.com/app-generator/boilerplate-code) - Index published on Github
 
 <br />
 
 ---
-[Django Dashboard Paper PRO](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](https://appseed.us/admin-dashboards/django) Paper PRO - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
