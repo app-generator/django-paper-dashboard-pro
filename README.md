@@ -42,7 +42,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![Django Dashboard Paper PRO - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-paper-pro/master/media/django-dashboard-paper-pro-screen.png)
+![Django Dashboard Paper PRO - Template project provided by AppSeed.](https://user-images.githubusercontent.com/51070104/143747308-aab602d7-a333-41a9-b132-a81162ef8db9.gif)
 
 <br />
 
